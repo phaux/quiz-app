@@ -1,0 +1,946 @@
+[
+  {
+    "category": "astronomy",
+    "question": "Jaka jest najbliższa planeta do Słońca?",
+    "answer": ["Merkury"],
+    "info": "Merkury jest oddalony od Słońca o około 58 milionów kilometrów."
+  },
+  {
+    "category": "history",
+    "question": "Kto był pierwszym królem Polski?",
+    "answer": ["Bolesław I Chrobry"],
+    "info": "Bolesław I Chrobry był pierwszym historycznym władcą Polski. Panował w latach 992-1025. Był synem Mieszka I i Dobrawy."
+  },
+  {
+    "category": "geography",
+    "question": "Jaka jest stolica Australii?",
+    "answer": ["Canberra"],
+    "info": "Canberra jest stolicą Australii od 1913 roku. Miasto zostało zaprojektowane przez amerykańskiego architekta Waltera Burleya Griffina."
+  },
+  {
+    "category": "biology",
+    "question": "Co to jest mitochondrium?",
+    "answer": ["organella komórkowa"],
+    "info": "Mitochondrium to organella komórkowa, która jest odpowiedzialna za produkcję energii w komórce."
+  },
+  {
+    "category": "physics",
+    "question": "Z jakich cząsteczek składa się jądro atomu?",
+    "answer": ["protonów i neutronów"],
+    "info": "Jądro atomu składa się z protonów i neutronów. Wokół jądra krążą elektrony."
+  },
+  {
+    "category": "general",
+    "question": "Jak nazywa się największy ocean na Ziemi?",
+    "answer": ["Ocean Spokojny", "Pacyfik"],
+    "info": "Ocean Spokojny, znany również jako Pacyfik, jest największym oceanem na Ziemi. Zajmuje około 46% powierzchni wszystkich oceanów i ma powierzchnię wynoszącą około 168 milionów km²."
+  },
+  {
+    "category": "general",
+    "question": "Które państwo ma największą liczbę ludności na świecie?",
+    "answer": ["Chiny", "Indie"],
+    "info": "Chiny długo były najludniejszym krajem świata, ale prognozy z 2023 roku wskazują, że Indie je wyprzedziły. Oba kraje mają ponad 1,4 miliarda mieszkańców."
+  },
+  {
+    "category": "general",
+    "question": "Który pierwiastek chemiczny ma symbol O?",
+    "answer": ["Tlen"],
+    "info": "Symbol O odnosi się do tlenu, który jest pierwiastkiem chemicznym z układu okresowego. Tlen jest kluczowy dla oddychania większości organizmów żywych i stanowi około 21% atmosfery Ziemi."
+  },
+  {
+    "category": "general",
+    "question": "Jak nazywa się najwyższy szczyt świata?",
+    "answer": ["Mount Everest", "Czomolungma"],
+    "info": "Mount Everest, znany lokalnie jako Czomolungma, jest najwyższym szczytem Ziemi o wysokości 8848,86 m n.p.m. Znajduje się w Himalajach na granicy Nepalu i Chin."
+  },
+  {
+    "category": "general",
+    "question": "Jakie zwierzę jest największym ssakiem na świecie?",
+    "answer": ["Płetwal błękitny"],
+    "info": "Płetwal błękitny to największy ssak na świecie, osiągający długość do 30 metrów i wagę do 200 ton. Żywi się planktonem i występuje we wszystkich oceanach."
+  },
+  {
+    "category": "general",
+    "question": "Kto napisał 'Hamleta'?",
+    "answer": ["William Shakespeare"],
+    "info": "'Hamlet' to jedno z najsłynniejszych dzieł Williama Shakespeare’a, napisane około 1600 roku. To tragedia opowiadająca o duńskim księciu zemszczającym się za śmierć swojego ojca."
+  },
+  {
+    "category": "general",
+    "question": "Które państwo ma kształt przypominający but?",
+    "answer": ["Włochy"],
+    "info": "Włochy na mapie mają charakterystyczny kształt przypominający but. Leżą na Półwyspie Apenińskim i są otoczone przez Morze Śródziemne."
+  },
+  {
+    "category": "general",
+    "question": "Jak nazywa się główny satelita Ziemi?",
+    "answer": ["Księżyc"],
+    "info": "Księżyc jest naturalnym satelitą Ziemi i ma średnicę wynoszącą około 3474 km. Jest odpowiedzialny za zjawiska pływów morskich i wpływa na klimat Ziemi."
+  },
+  {
+    "category": "general",
+    "question": "W którym roku miało miejsce lądowanie człowieka na Księżycu?",
+    "answer": ["1969"],
+    "info": "Pierwsze lądowanie człowieka na Księżycu miało miejsce 20 lipca 1969 roku podczas misji Apollo 11. Neil Armstrong i Buzz Aldrin byli pierwszymi ludźmi, którzy stanęli na powierzchni Księżyca."
+  },
+  {
+    "category": "general",
+    "question": "Które państwo słynie z produkcji szampana?",
+    "answer": ["Francja"],
+    "info": "Szampan pochodzi z regionu Szampania we Francji, gdzie produkuje się go zgodnie z surowymi zasadami. Jest to napój musujący, który zyskał sławę na całym świecie."
+  },
+  {
+    "category": "general",
+    "question": "Jak nazywa się największa pustynia na świecie?",
+    "answer": ["Sahara"],
+    "info": "Sahara to największa gorąca pustynia na świecie, zajmująca około 9,2 miliona km². Znajduje się w północnej Afryce i charakteryzuje się ekstremalnie suchym klimatem."
+  },
+  {
+    "category": "general",
+    "question": "Jak nazywa się pierwszy sztuczny satelita umieszczony na orbicie Ziemi?",
+    "answer": ["Sputnik 1"],
+    "info": "Sputnik 1 został wystrzelony przez ZSRR 4 października 1957 roku, rozpoczynając erę eksploracji kosmosu. Był to pierwszy sztuczny obiekt umieszczony na orbicie Ziemi."
+  },
+  {
+    "category": "general",
+    "question": "Który język jest najczęściej używany na świecie jako język ojczysty?",
+    "answer": ["Chiński (mandaryński)"],
+    "info": "Chiński mandaryński jest językiem ojczystym dla ponad miliarda ludzi, co czyni go najczęściej używanym językiem na świecie w tej kategorii."
+  },
+  {
+    "category": "general",
+    "question": "Jak nazywa się rzeka przepływająca przez największą część Amazonii?",
+    "answer": ["Amazonka"],
+    "info": "Amazonka to najdłuższa (lub druga najdłuższa, zależnie od metod pomiaru) rzeka świata. Przepływa przez Amerykę Południową i odgrywa kluczową rolę w ekosystemie regionu."
+  },
+  {
+    "category": "general",
+    "question": "Który kraj jako pierwszy wprowadził prawa wyborcze dla kobiet?",
+    "answer": ["Nowa Zelandia"],
+    "info": "Nowa Zelandia była pierwszym krajem, który w 1893 roku przyznał kobietom prawo do głosowania w wyborach parlamentarnych, co było kamieniem milowym w historii równouprawnienia."
+  },
+  {
+    "category": "general",
+    "question": "Jakie jest chemiczne oznaczenie wody?",
+    "answer": ["H2O"],
+    "info": "H2O to chemiczne oznaczenie wody, które wskazuje, że każda cząsteczka składa się z dwóch atomów wodoru i jednego atomu tlenu."
+  },
+  {
+    "category": "general",
+    "question": "Jak nazywa się najstarszy uniwersytet w Europie?",
+    "answer": ["Uniwersytet Boloński"],
+    "info": "Uniwersytet Boloński, założony w 1088 roku we Włoszech, jest uznawany za najstarszy uniwersytet w Europie, który działa nieprzerwanie do dziś."
+  },
+  {
+    "category": "general",
+    "question": "Która planeta w Układzie Słonecznym jest największa?",
+    "answer": ["Jowisz"],
+    "info": "Jowisz jest największą planetą Układu Słonecznego, o średnicy wynoszącej około 139 820 km. Jest gazowym gigantem i ma ponad 70 księżyców."
+  },
+  {
+    "category": "general",
+    "question": "Które miasto nazywane jest 'Wiecznym Miastem'?",
+    "answer": ["Rzym"],
+    "info": "Rzym, stolica Włoch, jest nazywany 'Wiecznym Miastem' ze względu na jego bogatą historię i znaczenie w kulturze oraz religii."
+  },
+  {
+    "category": "general",
+    "question": "Który pierwiastek jest najczęściej występującym we Wszechświecie?",
+    "answer": ["Wodór"],
+    "info": "Wodór jest najczęściej występującym pierwiastkiem we Wszechświecie. Stanowi około 75% masy wszystkich pierwiastków i jest podstawowym składnikiem gwiazd."
+  },
+  {
+    "question": "Jak nazywa się największy ocean na Ziemi?",
+    "answer": ["Ocean Spokojny", "Pacyfik"],
+    "info": "Ocean Spokojny, znany również jako Pacyfik, jest największym oceanem na Ziemi. Zajmuje około 46% powierzchni wszystkich oceanów i ma powierzchnię wynoszącą około 168 milionów km².",
+    "category": "geografia"
+  },
+  {
+    "question": "Jak nazywa się główny satelita Ziemi?",
+    "answer": ["Księżyc"],
+    "info": "Księżyc jest naturalnym satelitą Ziemi i ma średnicę wynoszącą około 3474 km. Jest odpowiedzialny za zjawiska pływów morskich i wpływa na klimat Ziemi.",
+    "category": "astronomia"
+  },
+  {
+    "question": "Jakie jest prawo opisujące przyciąganie ciał w zależności od ich mas i odległości?",
+    "answer": ["Prawo powszechnego ciążenia", "Prawo Newtona"],
+    "info": "Prawo powszechnego ciążenia Newtona mówi, że każde dwa ciała przyciągają się siłą proporcjonalną do iloczynu ich mas i odwrotnie proporcjonalną do kwadratu odległości między nimi.",
+    "category": "fizyka"
+  },
+  {
+    "question": "Jakie jest przyspieszenie grawitacyjne na powierzchni Ziemi?",
+    "answer": ["9,8 m/s²"],
+    "info": "Przyspieszenie grawitacyjne na Ziemi wynosi średnio 9,8 m/s². Oznacza to, że obiekt w swobodnym spadku zwiększa swoją prędkość o około 9,8 m/s w każdej sekundzie.",
+    "category": "fizyka"
+  },
+  {
+    "question": "Jak nazywa się jednostka mocy w układzie SI?",
+    "answer": ["Wat"],
+    "info": "Wat (W) jest jednostką mocy w układzie SI. Reprezentuje ilość energii przekazywanej lub przekształcanej w jednostce czasu (1 W = 1 J/s).",
+    "category": "fizyka"
+  },
+  {
+    "question": "Co oznacza słynne równanie E=mc²?",
+    "answer": ["Równoważność masy i energii"],
+    "info": "Równanie E=mc², zaproponowane przez Alberta Einsteina, oznacza, że masa obiektu może być przekształcona w energię i odwrotnie. 'E' to energia, 'm' to masa, a 'c' to prędkość światła w próżni.",
+    "category": "fizyka"
+  },
+  {
+    "question": "Jak nazywa się zjawisko rozszczepienia światła przez pryzmat?",
+    "answer": ["Dyspersja"],
+    "info": "Dyspersja to zjawisko fizyczne, w którym światło białe ulega rozszczepieniu na różne barwy, gdy przechodzi przez pryzmat. Wynika to z zależności prędkości światła od długości fali.",
+    "category": "fizyka"
+  },
+  {
+    "question": "Która planeta w Układzie Słonecznym ma największe pole magnetyczne?",
+    "answer": ["Jowisz"],
+    "info": "Jowisz ma najsilniejsze pole magnetyczne w Układzie Słonecznym. Jego pole magnetyczne jest około 20 000 razy silniejsze od ziemskiego.",
+    "category": "fizyka"
+  },
+  {
+    "question": "Jak nazywa się najmniejsza cząstka, która zachowuje właściwości chemiczne pierwiastka?",
+    "answer": ["Atom"],
+    "info": "Atom to najmniejsza jednostka pierwiastka chemicznego, która zachowuje jego właściwości. Składa się z jądra (protony i neutrony) oraz elektronów krążących wokół niego.",
+    "category": "fizyka"
+  },
+  {
+    "question": "Jakie są trzy podstawowe rodzaje promieniowania emitowanego przez substancje radioaktywne?",
+    "answer": [
+      "Promieniowanie alfa",
+      "Promieniowanie beta",
+      "Promieniowanie gamma"
+    ],
+    "info": "Substancje radioaktywne emitują trzy rodzaje promieniowania: alfa (cząstki helu), beta (elektrony lub pozytony) i gamma (fale elektromagnetyczne).",
+    "category": "fizyka"
+  },
+  {
+    "question": "Jak nazywa się funkcja, która przyporządkowuje każdemu punktowi w płaszczyźnie jego odległość od pewnego ustalonego punktu?",
+    "answer": ["Funkcja okręgu", "Równanie okręgu"],
+    "info": "Równanie okręgu opisuje zbiór punktów, które znajdują się w jednakowej odległości od ustalonego punktu, nazywanego środkiem okręgu.",
+    "category": "matematyka"
+  },
+  {
+    "question": "Jak nazywa się liczba, która nie ma dzielników innych niż 1 i sama siebie?",
+    "answer": ["Liczba pierwsza"],
+    "info": "Liczby pierwsze, takie jak 2, 3, 5 czy 7, są podstawowymi budulcami liczb w teorii liczb, ponieważ każda liczba naturalna większa od 1 może być przedstawiona jako iloczyn liczb pierwszych.",
+    "category": "matematyka"
+  },
+  {
+    "question": "Jaką wartość ma liczba Pi (π) w przybliżeniu do dwóch miejsc po przecinku?",
+    "answer": ["3,14"],
+    "info": "Liczba Pi (π) to stosunek obwodu koła do jego średnicy. Jest to liczba niewymierna, która w przybliżeniu wynosi 3,14.",
+    "category": "matematyka"
+  },
+  {
+    "question": "Jak nazywa się wielokąt o sześciu bokach?",
+    "answer": ["Sześciokąt", "Heksagon"],
+    "info": "Sześciokąt, znany również jako heksagon, to figura geometryczna o sześciu bokach i sześciu kątach.",
+    "category": "matematyka"
+  },
+  {
+    "question": "Jakie jest rozwiązanie równania 2x + 4 = 10?",
+    "answer": ["x = 3"],
+    "info": "Rozwiązanie równania 2x + 4 = 10 to x = 3, ponieważ po odjęciu 4 od obu stron i podzieleniu przez 2 otrzymujemy x = 3.",
+    "category": "matematyka"
+  },
+  {
+    "question": "Jak nazywa się jednostka miary kąta równa 1/360 pełnego obrotu?",
+    "answer": ["Stopień"],
+    "info": "Stopień to jednostka miary kąta, gdzie pełny obrót wynosi 360 stopni. Jest powszechnie stosowany w geometrii i nawigacji.",
+    "category": "matematyka"
+  },
+  {
+    "question": "Jakie jest pole kwadratu o boku długości 5?",
+    "answer": ["25"],
+    "info": "Pole kwadratu obliczamy wzorem P = a², gdzie a to długość boku. Dla boku o długości 5, pole wynosi 5² = 25.",
+    "category": "matematyka"
+  },
+  {
+    "question": "Jak nazywa się wynik dodawania dwóch liczb?",
+    "answer": ["Suma"],
+    "info": "Wynik dodawania dwóch liczb nazywamy sumą. Na przykład, suma 3 i 5 wynosi 8.",
+    "category": "matematyka"
+  },
+  {
+    "question": "Jakie jest równanie prostej przechodzącej przez punkt (0, 0) i mającej nachylenie równe 2?",
+    "answer": ["y = 2x"],
+    "info": "Równanie prostej w postaci kierunkowej y = mx + b, gdzie m to nachylenie, a b to wyraz wolny. Dla nachylenia równego 2 i punktu (0, 0), równanie to y = 2x.",
+    "category": "matematyka"
+  },
+  {
+    "question": "Jak nazywa się średnia arytmetyczna liczb 4, 8 i 12?",
+    "answer": ["8"],
+    "info": "Średnia arytmetyczna obliczana jest jako suma liczb podzielona przez ich ilość. Dla liczb 4, 8 i 12 średnia wynosi (4 + 8 + 12) / 3 = 24 / 3 = 8.",
+    "category": "matematyka"
+  },
+  {
+    "question": "Jak nazywa się najbliższa gwiazda względem Ziemi?",
+    "answer": ["Słońce"],
+    "info": "Słońce jest najbliższą Ziemi gwiazdą. Znajduje się w centrum Układu Słonecznego i jest źródłem energii dla naszej planety.",
+    "category": "astronomia"
+  },
+  {
+    "question": "Jak nazywa się galaktyka, w której znajduje się Ziemia?",
+    "answer": ["Droga Mleczna"],
+    "info": "Droga Mleczna to galaktyka spiralna, w której znajduje się Układ Słoneczny. Szacuje się, że zawiera od 100 do 400 miliardów gwiazd.",
+    "category": "astronomia"
+  },
+  {
+    "question": "Jak nazywa się planeta nazywana 'Czerwoną Planetą'?",
+    "answer": ["Mars"],
+    "info": "Mars jest nazywany 'Czerwoną Planetą' ze względu na tlenek żelaza obecny na jego powierzchni, który nadaje mu charakterystyczny czerwonawy kolor.",
+    "category": "astronomia"
+  },
+  {
+    "question": "Która planeta w Układzie Słonecznym ma największą liczbę księżyców?",
+    "answer": ["Saturn"],
+    "info": "Saturn posiada obecnie najwięcej znanych księżyców w Układzie Słonecznym – ponad 80 potwierdzonych. Wcześniej liderem pod tym względem był Jowisz.",
+    "category": "astronomia"
+  },
+  {
+    "question": "Jak nazywa się największy księżyc Jowisza?",
+    "answer": ["Ganimedes"],
+    "info": "Ganimedes to największy księżyc Jowisza i całego Układu Słonecznego. Ma średnicę większą od planety Merkury i posiada własne pole magnetyczne.",
+    "category": "astronomia"
+  },
+  {
+    "question": "Jaką nazwę nosi najjaśniejsza gwiazda na nocnym niebie?",
+    "answer": ["Syriusz"],
+    "info": "Syriusz, znajdujący się w gwiazdozbiorze Wielkiego Psa, jest najjaśniejszą gwiazdą na nocnym niebie. Jest oddalony od Ziemi o około 8,6 roku świetlnego.",
+    "category": "astronomia"
+  },
+  {
+    "question": "Jak nazywa się pierwszy człowiek, który stanął na Księżycu?",
+    "answer": ["Neil Armstrong"],
+    "info": "Neil Armstrong był pierwszym człowiekiem, który postawił stopę na Księżycu podczas misji Apollo 11 w 1969 roku. Jego słowa 'To mały krok dla człowieka, ale wielki skok dla ludzkości' stały się słynne.",
+    "category": "astronomia"
+  },
+  {
+    "question": "Jak nazywa się planeta najbliższa Słońcu?",
+    "answer": ["Merkury"],
+    "info": "Merkury to najbliższa Słońcu planeta w Układzie Słonecznym. Ze względu na swoje położenie ma bardzo krótką orbitę, trwającą około 88 dni.",
+    "category": "astronomia"
+  },
+  {
+    "question": "Która planeta Układu Słonecznego jest znana z posiadania pierścieni?",
+    "answer": ["Saturn"],
+    "info": "Saturn jest najbardziej znany z rozbudowanego systemu pierścieni, które są złożone z lodu i skał. Inne planety gazowe również mają pierścienie, ale mniej widoczne.",
+    "category": "astronomia"
+  },
+  {
+    "question": "Jak nazywa się jednostka używana do mierzenia odległości w kosmosie równa około 9,46 bilionów kilometrów?",
+    "answer": ["Rok świetlny"],
+    "info": "Rok świetlny to jednostka odległości, która opisuje dystans, jaki światło przebywa w ciągu jednego roku. Jest używana w astronomii do mierzenia odległości między gwiazdami i galaktykami.",
+    "category": "astronomia"
+  },
+  {
+    "question": "Jak nazywa się najwyższy szczyt na świecie?",
+    "answer": ["Mount Everest", "Czomolungma"],
+    "info": "Mount Everest, znany w Tybecie jako Czomolungma, to najwyższy szczyt na świecie. Jego wysokość wynosi 8848,86 metrów nad poziomem morza.",
+    "category": "geografia"
+  },
+  {
+    "question": "Które państwo jest największe pod względem powierzchni?",
+    "answer": ["Rosja"],
+    "info": "Rosja to największe państwo na świecie, zajmujące powierzchnię około 17,1 milionów kilometrów kwadratowych, co stanowi około 11% powierzchni lądowej Ziemi.",
+    "category": "geografia"
+  },
+  {
+    "question": "Które morze jest najmniejsze na świecie?",
+    "answer": ["Morze Azowskie"],
+    "info": "Morze Azowskie, położone między Ukrainą a Rosją, jest najmniejszym morzem na świecie. Ma powierzchnię około 37 600 kilometrów kwadratowych.",
+    "category": "geografia"
+  },
+  {
+    "question": "Jak nazywa się najdłuższa rzeka w Afryce?",
+    "answer": ["Nil"],
+    "info": "Nil jest najdłuższą rzeką w Afryce i jedną z najdłuższych na świecie, o długości około 6650 kilometrów. Przepływa przez 11 krajów.",
+    "category": "geografia"
+  },
+  {
+    "question": "Które państwo ma najwięcej ludności na świecie?",
+    "answer": ["Chiny", "Indie"],
+    "info": "Chiny przez długi czas były krajem o największej liczbie ludności, jednak Indie również osiągnęły porównywalną liczbę, obie populacje przekraczają 1,4 miliarda.",
+    "category": "geografia"
+  },
+  {
+    "question": "Jak nazywa się największe jezioro na świecie pod względem powierzchni?",
+    "answer": ["Morze Kaspijskie"],
+    "info": "Morze Kaspijskie, mimo że jest nazywane morzem, jest największym jeziorem na świecie pod względem powierzchni – około 371 000 kilometrów kwadratowych.",
+    "category": "geografia"
+  },
+  {
+    "question": "W jakim państwie znajdują się Piramidy w Gizie?",
+    "answer": ["Egipt"],
+    "info": "Piramidy w Gizie znajdują się w Egipcie, na obrzeżach Kairu. Są jednym z siedmiu cudów starożytnego świata i jedynym zachowanym do dzisiaj.",
+    "category": "geografia"
+  },
+  {
+    "question": "Jak nazywa się największa pustynia świata?",
+    "answer": ["Antarktyda"],
+    "info": "Antarktyda jest największą pustynią na świecie. Jest to pustynia polarna, która charakteryzuje się ekstremalnie niskimi opadami, mimo pokrywy lodowej.",
+    "category": "geografia"
+  },
+  {
+    "question": "Które państwo ma najwięcej wysp na świecie?",
+    "answer": ["Szwecja"],
+    "info": "Szwecja jest krajem o największej liczbie wysp na świecie – ponad 267 000. Większość z nich jest niezamieszkana.",
+    "category": "geografia"
+  },
+  {
+    "question": "Która stolica leży na dwóch kontynentach?",
+    "answer": ["Stambuł"],
+    "info": "Stambuł, największe miasto Turcji, leży na dwóch kontynentach: w Europie i Azji, co czyni je wyjątkowym pod względem geograficznym.",
+    "category": "geografia"
+  },
+  {
+    "question": "W którym roku rozpoczęła się II wojna światowa?",
+    "answer": ["1939"],
+    "info": "II wojna światowa rozpoczęła się 1 września 1939 roku, kiedy Niemcy zaatakowały Polskę. Konflikt trwał do 1945 roku i objął większość świata.",
+    "category": "historia"
+  },
+  {
+    "question": "Jak nazywa się pierwszy cesarz Imperium Rzymskiego?",
+    "answer": ["Oktawian August", "August"],
+    "info": "Oktawian August, adoptowany syn Juliusza Cezara, został pierwszym cesarzem Rzymu w 27 roku p.n.e. Jego panowanie rozpoczęło epokę Pax Romana.",
+    "category": "historia"
+  },
+  {
+    "question": "Który król Polski był nazywany 'Wielkim'?",
+    "answer": ["Kazimierz III Wielki"],
+    "info": "Kazimierz III Wielki był królem Polski w XIV wieku. Zasłynął z reform administracyjnych i prawnych oraz rozwoju infrastruktury, w tym budowy zamków i miast.",
+    "category": "historia"
+  },
+  {
+    "question": "Jak nazywa się rewolucja, która obaliła monarchię we Francji w XVIII wieku?",
+    "answer": ["Rewolucja Francuska"],
+    "info": "Rewolucja Francuska (1789–1799) obaliła monarchię absolutną we Francji, wprowadzając Republikę i fundamentalne zmiany społeczne, polityczne i gospodarcze.",
+    "category": "historia"
+  },
+  {
+    "question": "W którym roku upadł Konstantynopol?",
+    "answer": ["1453"],
+    "info": "Konstantynopol upadł w 1453 roku, kiedy został zdobyty przez Imperium Osmańskie pod wodzą sułtana Mehmeda II. To wydarzenie oznaczało koniec Cesarstwa Bizantyjskiego.",
+    "category": "historia"
+  },
+  {
+    "question": "Jak nazywał się pierwszy prezydent Stanów Zjednoczonych?",
+    "answer": ["George Washington"],
+    "info": "George Washington był pierwszym prezydentem USA, sprawującym urząd w latach 1789–1797. Jest uważany za jednego z Ojców Założycieli Stanów Zjednoczonych.",
+    "category": "historia"
+  },
+  {
+    "question": "Który dokument ogłoszono w 1215 roku w Anglii, ograniczając władzę królewską?",
+    "answer": ["Magna Carta", "Wielka Karta Swobód"],
+    "info": "Magna Carta została ogłoszona w 1215 roku przez króla Jana bez Ziemi. Była to pierwsza próba ograniczenia władzy królewskiej i zagwarantowania praw baronom.",
+    "category": "historia"
+  },
+  {
+    "question": "Kto był przywódcą rewolucji październikowej w Rosji w 1917 roku?",
+    "answer": ["Włodzimierz Lenin"],
+    "info": "Włodzimierz Lenin był przywódcą bolszewików i kluczową postacią rewolucji październikowej, która doprowadziła do obalenia Rządu Tymczasowego i powstania ZSRR.",
+    "category": "historia"
+  },
+  {
+    "question": "Które państwo było nazywane 'Perłą Korony Brytyjskiej'?",
+    "answer": ["Indie"],
+    "info": "Indie były nazywane 'Perłą Korony Brytyjskiej' ze względu na swoje bogactwa naturalne, strategiczne położenie i znaczenie gospodarcze dla Imperium Brytyjskiego.",
+    "category": "historia"
+  },
+  {
+    "question": "Jak nazywała się słynna królowa starożytnego Egiptu, znana ze związku z Markiem Antoniuszem?",
+    "answer": ["Kleopatra", "Kleopatra VII"],
+    "info": "Kleopatra VII była ostatnią władczynią z dynastii Ptolemeuszy. Była znana z inteligencji, politycznego sprytu i związku z Markiem Antoniuszem, co wpłynęło na losy starożytnego Egiptu.",
+    "category": "historia"
+  },
+  {
+    "question": "Kto namalował obraz 'Mona Lisa'?",
+    "answer": ["Leonardo da Vinci"],
+    "info": "Leonardo da Vinci namalował 'Mona Lisę' na początku XVI wieku. Obraz jest znany z tajemniczego uśmiechu modelki i techniki sfumato.",
+    "category": "historia sztuki"
+  },
+  {
+    "question": "Jak nazywa się okres w sztuce, który charakteryzował się symetrią, harmonią i odwołaniami do starożytnej Grecji i Rzymu?",
+    "answer": ["Klasycyzm"],
+    "info": "Klasycyzm był ruchem artystycznym, który dominował w XVIII wieku. Inspirował się antykiem i kładł nacisk na prostotę oraz porządek.",
+    "category": "historia sztuki"
+  },
+  {
+    "question": "Jak nazywa się hiszpański malarz, który stworzył dzieło 'Guernica'?",
+    "answer": ["Pablo Picasso"],
+    "info": "Pablo Picasso namalował 'Guernicę' w 1937 roku, aby upamiętnić zbombardowanie miasta Guernica w Hiszpanii. Obraz jest symbolem antywojennym.",
+    "category": "historia sztuki"
+  },
+  {
+    "question": "Jak nazywa się styl architektoniczny charakteryzujący się strzelistymi wieżami, witrażami i ostrołukowymi oknami?",
+    "answer": ["Gotyk"],
+    "info": "Styl gotycki rozwijał się w Europie od XII do XVI wieku. Jest charakterystyczny dla katedr takich jak Notre-Dame w Paryżu.",
+    "category": "historia sztuki"
+  },
+  {
+    "question": "Który artysta jest autorem fresków w Kaplicy Sykstyńskiej w Watykanie?",
+    "answer": ["Michał Anioł"],
+    "info": "Michał Anioł stworzył freski w Kaplicy Sykstyńskiej, w tym słynne 'Stworzenie Adama'. Prace trwały w latach 1508–1512.",
+    "category": "historia sztuki"
+  },
+  {
+    "question": "Jak nazywa się holenderski malarz, autor dzieła 'Dziewczyna z perłą'?",
+    "answer": ["Johannes Vermeer"],
+    "info": "Johannes Vermeer był holenderskim malarzem barokowym. 'Dziewczyna z perłą' jest jednym z jego najbardziej znanych obrazów, czasem nazywanym 'Mona Lisą Północy'.",
+    "category": "historia sztuki"
+  },
+  {
+    "question": "Jak nazywa się okres w sztuce europejskiej, który nastąpił po średniowieczu i odrodził zainteresowanie antykiem?",
+    "answer": ["Renesans"],
+    "info": "Renesans, trwający od XIV do XVI wieku, był okresem odnowienia zainteresowania kulturą i nauką starożytną. Charakteryzował się rozwojem w sztuce, architekturze i nauce.",
+    "category": "historia sztuki"
+  },
+  {
+    "question": "Jak nazywa się francuski impresjonista, który namalował obraz 'Impresja, wschód słońca'?",
+    "answer": ["Claude Monet"],
+    "info": "Claude Monet był jednym z czołowych impresjonistów. Jego obraz 'Impresja, wschód słońca' dał nazwę całemu ruchowi artystycznemu.",
+    "category": "historia sztuki"
+  },
+  {
+    "question": "Jak nazywa się kierunek w sztuce XX wieku, którego przedstawicielem był Salvador Dalí?",
+    "answer": ["Surrealizm"],
+    "info": "Surrealizm to kierunek artystyczny skupiający się na ukazywaniu podświadomości i snów. Salvador Dalí stworzył wiele surrealistycznych dzieł, takich jak 'Trwałość pamięci'.",
+    "category": "historia sztuki"
+  },
+  {
+    "question": "Jak nazywa się styl sztuki secesyjnej, znany także jako 'Art Nouveau'?",
+    "answer": ["Secesja", "Art Nouveau"],
+    "info": "Secesja, znana jako 'Art Nouveau', była stylem z przełomu XIX i XX wieku, charakteryzującym się falistymi liniami, organicznymi motywami i dekoracyjnością.",
+    "category": "historia sztuki"
+  },
+  {
+    "question": "Kto jest autorem symfonii 'IX Symfonia d-moll', znanej z finału 'Oda do radości'?",
+    "answer": ["Ludwig van Beethoven"],
+    "info": "IX Symfonia Ludwiga van Beethovena to jedno z najważniejszych dzieł muzyki klasycznej. Finałowa 'Oda do radości' stała się hymnem Unii Europejskiej.",
+    "category": "muzyka"
+  },
+  {
+    "question": "Jak nazywa się gatunek muzyczny, który powstał w Nowym Orleanie i łączy elementy bluesa, ragtime'u i muzyki gospel?",
+    "answer": ["Jazz"],
+    "info": "Jazz powstał na początku XX wieku w Nowym Orleanie. Charakteryzuje się improwizacją, złożonymi harmoniami i swingiem.",
+    "category": "muzyka"
+  },
+  {
+    "question": "Który kompozytor jest autorem opery 'Don Giovanni'?",
+    "answer": ["Wolfgang Amadeusz Mozart"],
+    "info": "Wolfgang Amadeusz Mozart skomponował operę 'Don Giovanni' w 1787 roku. Jest uznawana za jedno z najwybitniejszych dzieł operowych.",
+    "category": "muzyka"
+  },
+  {
+    "question": "Jak nazywa się brytyjski zespół rockowy, który nagrał album 'Abbey Road'?",
+    "answer": ["The Beatles"],
+    "info": "The Beatles to jeden z najbardziej wpływowych zespołów w historii muzyki. Album 'Abbey Road' z 1969 roku zawiera takie hity jak 'Come Together' i 'Here Comes the Sun'.",
+    "category": "muzyka"
+  },
+  {
+    "question": "Jak nazywa się gatunek muzyczny wywodzący się z Jamajki, którego jednym z pionierów był Bob Marley?",
+    "answer": ["Reggae"],
+    "info": "Reggae to gatunek muzyczny powstały na Jamajce w latach 60. XX wieku. Bob Marley jest jego najbardziej znanym przedstawicielem.",
+    "category": "muzyka"
+  },
+  {
+    "question": "Kto skomponował 'Cztery pory roku' – cykl koncertów skrzypcowych?",
+    "answer": ["Antonio Vivaldi"],
+    "info": "'Cztery pory roku' to cykl koncertów skrzypcowych napisanych przez włoskiego kompozytora barokowego Antonio Vivaldiego. Dzieło opisuje zmieniające się pory roku.",
+    "category": "muzyka"
+  },
+  {
+    "question": "Jak nazywa się polski kompozytor, autor 'Mazurka Dąbrowskiego'?",
+    "answer": ["Józef Wybicki"],
+    "info": "Józef Wybicki napisał tekst 'Mazurka Dąbrowskiego', który stał się hymnem Polski. Melodia jest tradycyjną polską pieśnią ludową.",
+    "category": "muzyka"
+  },
+  {
+    "question": "Który włoski kompozytor jest autorem opery 'La Traviata'?",
+    "answer": ["Giuseppe Verdi"],
+    "info": "Giuseppe Verdi skomponował 'La Traviatę' w 1853 roku. Opera ta jest jednym z najczęściej wystawianych dzieł w historii muzyki.",
+    "category": "muzyka"
+  },
+  {
+    "question": "Jak nazywa się instrument dęty blaszany, największy w rodzinie trąbek?",
+    "answer": ["Tuba"],
+    "info": "Tuba jest największym instrumentem dętym blaszanym. Jest często używana w orkiestrach symfonicznych i zespołach dętych.",
+    "category": "muzyka"
+  },
+  {
+    "question": "Jak nazywa się skandynawski zespół, który wygrał Eurowizję w 1974 roku z utworem 'Waterloo'?",
+    "answer": ["ABBA"],
+    "info": "ABBA to szwedzki zespół, który zdobył światową sławę po wygranej w konkursie Eurowizji w 1974 roku z piosenką 'Waterloo'.",
+    "category": "muzyka"
+  },
+  {
+    "question": "Jak nazywa się proces zamiany kodu źródłowego na kod maszynowy?",
+    "answer": ["Kompilacja"],
+    "info": "Kompilacja to proces, w którym kod źródłowy napisany w języku programowania wysokiego poziomu jest przekształcany na kod maszynowy zrozumiały dla komputera.",
+    "category": "informatyka"
+  },
+  {
+    "question": "Jak nazywa się struktura danych oparta na zasadzie LIFO (Last In, First Out)?",
+    "answer": ["Stos"],
+    "info": "Stos to struktura danych, w której ostatni element dodany do stosu jest pierwszym, który z niego zostanie usunięty. Przykładami użycia stosów są rekurencja i operacje cofnij w edytorach tekstu.",
+    "category": "informatyka"
+  },
+  {
+    "question": "Co oznacza skrót 'HTTP' używany w adresach internetowych?",
+    "answer": ["HyperText Transfer Protocol"],
+    "info": "HTTP to protokół służący do przesyłania dokumentów hipertekstowych w Internecie. Jest podstawą komunikacji w sieci WWW.",
+    "category": "informatyka"
+  },
+  {
+    "question": "Jak nazywa się popularny system kontroli wersji używany w programowaniu?",
+    "answer": ["Git"],
+    "info": "Git to rozproszony system kontroli wersji, który umożliwia śledzenie zmian w kodzie źródłowym i współpracę zespołową. Został stworzony przez Linusa Torvaldsa.",
+    "category": "informatyka"
+  },
+  {
+    "question": "Jak nazywa się algorytm sortowania, który porównuje sąsiednie elementy i zamienia je miejscami, jeśli są w niewłaściwej kolejności?",
+    "answer": ["Sortowanie bąbelkowe", "Bubble sort"],
+    "info": "Sortowanie bąbelkowe to prosty algorytm sortowania, w którym wielokrotnie przechodzi się przez listę, zamieniając sąsiednie elementy, aż cała lista będzie posortowana.",
+    "category": "informatyka"
+  },
+  {
+    "question": "Jak nazywa się technologia używana do izolowania aplikacji i ich zależności w kontenerach?",
+    "answer": ["Docker"],
+    "info": "Docker to platforma służąca do tworzenia, uruchamiania i zarządzania kontenerami, które izolują aplikacje i ich zależności w celu zapewnienia przenośności i spójności środowisk.",
+    "category": "informatyka"
+  },
+  {
+    "question": "Co oznacza skrót 'RAM' w kontekście sprzętu komputerowego?",
+    "answer": ["Random Access Memory", "Pamięć o dostępie swobodnym"],
+    "info": "RAM to rodzaj pamięci komputerowej, która przechowuje dane tymczasowe używane przez procesor podczas pracy. Jest szybsza niż pamięć masowa, ale dane są tracone po wyłączeniu zasilania.",
+    "category": "informatyka"
+  },
+  {
+    "question": "Jak nazywa się najpopularniejszy język znaczników używany do tworzenia stron internetowych?",
+    "answer": ["HTML"],
+    "info": "HTML (HyperText Markup Language) to język znaczników służący do tworzenia struktury i treści stron internetowych. Jest podstawą każdego dokumentu w sieci WWW.",
+    "category": "informatyka"
+  },
+  {
+    "question": "Który algorytm wyszukiwania działa na zasadzie dzielenia zakresu danych na pół?",
+    "answer": ["Wyszukiwanie binarne", "Binary search"],
+    "info": "Wyszukiwanie binarne to algorytm wyszukiwania, który działa na posortowanych zbiorach danych, redukując zakres przeszukiwania o połowę w każdej iteracji.",
+    "category": "informatyka"
+  },
+  {
+    "question": "Jak nazywa się koncepcja w programowaniu obiektowym, która pozwala ukrywać szczegóły implementacji obiektu?",
+    "answer": ["Enkapsulacja", "Hermetyzacja"],
+    "info": "Enkapsulacja to mechanizm w programowaniu obiektowym, który ogranicza dostęp do danych obiektu i umożliwia ich modyfikację tylko przez metody zdefiniowane w klasie.",
+    "category": "informatyka"
+  },
+  {
+    "question": "Jak nazywa się proces, w którym rośliny przekształcają światło słoneczne w energię chemiczną?",
+    "answer": ["Fotosynteza"],
+    "info": "Fotosynteza to proces, w którym rośliny, algi i niektóre bakterie wykorzystują światło słoneczne, dwutlenek węgla i wodę do produkcji glukozy i tlenu. Zachodzi głównie w chloroplastach.",
+    "category": "biologia"
+  },
+  {
+    "question": "Jakie zwierzę jest uznawane za najinteligentniejsze na Ziemi?",
+    "answer": ["Delfin", "Ludzki mózg"],
+    "info": "Delfiny, szczególnie delfiny butlonose, są uznawane za jedne z najbardziej inteligentnych zwierząt na Ziemi. Jednak pod względem zdolności do rozwiązywania problemów i rozumowania, ludzki mózg pozostaje bezkonkurencyjny.",
+    "category": "biologia"
+  },
+  {
+    "question": "Jak nazywa się najdłuższa kość w ludzkim ciele?",
+    "answer": ["Kość udowa"],
+    "info": "Kość udowa (femur) jest najdłuższą kością w ludzkim ciele, ma również największą wytrzymałość, umożliwiając chodzenie i utrzymywanie postawy.",
+    "category": "biologia"
+  },
+  {
+    "question": "Co to jest mitozę?",
+    "answer": ["Mitoza"],
+    "info": "Mitoza to proces podziału komórki somatycznej, w wyniku którego powstają dwie identyczne komórki potomne. Jest kluczowy dla wzrostu, regeneracji i zastępowania komórek w organizmach wielokomórkowych.",
+    "category": "biologia"
+  },
+  {
+    "question": "Jakie jest główne zadanie krwinek czerwonych (erytrocytów)?",
+    "answer": ["Transport tlenu"],
+    "info": "Krwinki czerwone (erytrocyty) są odpowiedzialne za transport tlenu z płuc do tkanek i dwutlenku węgla z tkanek do płuc. Zawierają hemoglobinę, która wiąże tlen.",
+    "category": "biologia"
+  },
+  {
+    "question": "Co to jest DNA?",
+    "answer": ["Kwas deoksyrybonukleinowy"],
+    "info": "DNA (kwas deoksyrybonukleinowy) to cząsteczka, która zawiera instrukcje genetyczne dla rozwoju i funkcjonowania organizmów. Jest podstawowym materiałem genetycznym wszystkich organizmów żywych.",
+    "category": "biologia"
+  },
+  {
+    "question": "Co to jest ekosystem?",
+    "answer": ["Ekosystem"],
+    "info": "Ekosystem to społeczność organizmów żywych w danym środowisku, w którym te organizmy wchodzą w interakcje z otoczeniem abiotycznym (takim jak woda, powietrze, gleba) i ze sobą nawzajem.",
+    "category": "biologia"
+  },
+  {
+    "question": "Jak nazywa się proces, w którym komórki zmieniają swoje właściwości w odpowiedzi na bodźce zewnętrzne?",
+    "answer": ["Dostosowanie", "Adaptacja"],
+    "info": "Adaptacja to proces biologiczny, w którym organizmy zmieniają swoje cechy w celu lepszego przystosowania się do zmieniającego się środowiska.",
+    "category": "biologia"
+  },
+  {
+    "question": "Który narząd w organizmach kręgowców odpowiada za produkcję hormonów kontrolujących metabolizm?",
+    "answer": ["Tarczyca"],
+    "info": "Tarczyca to gruczoł wydzielania wewnętrznego, który produkuje hormony regulujące metabolizm, takie jak tyroksyna, która wpływa na szybkość procesów biochemicznych w organizmach.",
+    "category": "biologia"
+  },
+  {
+    "question": "Co to jest chlorofil?",
+    "answer": ["Chlorofil"],
+    "info": "Chlorofil to zielony barwnik występujący w roślinach, który jest odpowiedzialny za pochłanianie światła słonecznego i umożliwia przeprowadzanie fotosyntezy.",
+    "category": "biologia"
+  },
+  {
+    "question": "Jak nazywa się największy lądowy ssak na Ziemi?",
+    "answer": ["Słoń afrykański"],
+    "info": "Słoń afrykański jest największym lądowym ssakiem, osiągającym wysokość do 4 metrów i wagę do 7 ton. Jego charakterystyczną cechą są duże uszy i trąba.",
+    "category": "zoologia"
+  },
+  {
+    "question": "Jak nazywa się ptak, który nie potrafi latać, ale doskonale biega i pływa?",
+    "answer": ["Pingwin"],
+    "info": "Pingwiny to ptaki, które przystosowały się do życia w wodzie i są doskonałymi pływakami, ale nie potrafią latać. Występują głównie na południowej półkuli.",
+    "category": "zoologia"
+  },
+  {
+    "question": "Co to jest metamorfiza?",
+    "answer": ["Metamorfoza"],
+    "info": "Metamorfoza to proces przekształceń, przez które przechodzą niektóre zwierzęta, takie jak owady czy płazy, od stadium larwalnego do formy dorosłej.",
+    "category": "zoologia"
+  },
+  {
+    "question": "Które zwierzę jest nazywane 'królem dżungli'?",
+    "answer": ["Lew"],
+    "info": "Lew, znany jako 'król dżungli', jest jednym z największych drapieżników lądowych, żyjącym w stadach, zwanych gronami, głównie w Afryce.",
+    "category": "zoologia"
+  },
+  {
+    "question": "Jak nazywa się największy gatunek rekina?",
+    "answer": ["Rekin wielorybi"],
+    "info": "Rekin wielorybi jest największym gatunkiem rekina, osiągającym długość do 12 metrów. Choć jest ogromny, żywi się planktonem.",
+    "category": "zoologia"
+  },
+  {
+    "question": "Jakie zwierzę jest symbolem Australii?",
+    "answer": ["Kangur"],
+    "info": "Kangur to ssak torbacz, który jest symbolem Australii. Jest znany z dużych tylnych nóg, które pozwalają mu wykonywać długie skoki.",
+    "category": "zoologia"
+  },
+  {
+    "question": "Jakie zwierzę jest największym ssakiem morskim?",
+    "answer": ["Wieloryb niebieski"],
+    "info": "Wieloryb niebieski jest największym zwierzęciem na Ziemi, osiągając długość do 30 metrów i wagę do 180 ton.",
+    "category": "zoologia"
+  },
+  {
+    "question": "Co to jest echolokacja?",
+    "answer": ["Echolokacja"],
+    "info": "Echolokacja to zdolność wykorzystywana przez niektóre zwierzęta, takie jak nietoperze i delfiny, do orientowania się w przestrzeni i wykrywania przeszkód, poprzez odbiór fal dźwiękowych odbitych od obiektów.",
+    "category": "zoologia"
+  },
+  {
+    "question": "Jak nazywa się zwierzę, które jest najstarszym znanym ssakiem, żyjącym do dzisiaj?",
+    "answer": ["Trichechus (manat)"],
+    "info": "Manat to ssak morski, który wyewoluował około 50 milionów lat temu. Zasiedla wody tropikalne i subtropikalne, żywiąc się roślinami wodnymi.",
+    "category": "zoologia"
+  },
+  {
+    "question": "Jakie zwierzę może żyć zarówno w wodzie, jak i na lądzie, dzięki oddychaniu płucami i skórą?",
+    "answer": ["Płaz"],
+    "info": "Płazy to grupa zwierząt, które żyją zarówno w wodzie (gdzie spędzają część swojego życia w formie larwalnej), jak i na lądzie. Należą do nich żaby, salamandry i traszki.",
+    "category": "zoologia"
+  },
+  {
+    "question": "Kiedy miała miejsce bitwa pod Grunwaldem?",
+    "answer": ["1410"],
+    "info": "Bitwa pod Grunwaldem miała miejsce 15 lipca 1410 roku. Była to jedna z największych bitew średniowiecznej Europy, w której wojska polsko-litewskie pokonały Krzyżaków.",
+    "category": "historia Polski"
+  },
+  {
+    "question": "Kto był pierwszym królem Polski?",
+    "answer": ["Bolesław I Chrobry"],
+    "info": "Bolesław I Chrobry był pierwszym koronowanym królem Polski. Jego koronacja miała miejsce w 1025 roku, po śmierci jego ojca, Mieszka I.",
+    "category": "historia Polski"
+  },
+  {
+    "question": "Jak nazywał się pierwszy polski rząd na uchodźstwie utworzony po II wojnie światowej?",
+    "answer": ["Rząd RP na uchodźstwie"],
+    "info": "Rząd RP na uchodźstwie został utworzony w 1945 roku po zakończeniu II wojny światowej, w wyniku zmiany władzy w Polsce i powstania w kraju reżimu komunistycznego.",
+    "category": "historia Polski"
+  },
+  {
+    "question": "Kiedy Polska odzyskała niepodległość po I wojnie światowej?",
+    "answer": ["11 listopada 1918"],
+    "info": "Polska odzyskała niepodległość 11 listopada 1918 roku po 123 latach rozbiorów, dzięki zakończeniu I wojny światowej i upadkowi trzech zaborców: Rosji, Niemiec i Austro-Węgier.",
+    "category": "historia Polski"
+  },
+  {
+    "question": "Kto był pierwszym prezydentem Polski po 1989 roku?",
+    "answer": ["Lech Wałęsa"],
+    "info": "Lech Wałęsa, lider Solidarności, został pierwszym demokratycznie wybranym prezydentem Polski po upadku komunizmu. Jego kadencja trwała w latach 1990-1995.",
+    "category": "historia Polski"
+  },
+  {
+    "question": "W którym roku Polska przystąpiła do Unii Europejskiej?",
+    "answer": ["2004"],
+    "info": "Polska przystąpiła do Unii Europejskiej 1 maja 2004 roku, po przeprowadzonym referendum w 2003 roku, co miało kluczowe znaczenie dla dalszego rozwoju kraju.",
+    "category": "historia Polski"
+  },
+  {
+    "question": "Co oznacza termin 'Solidarność' w kontekście historii Polski?",
+    "answer": [
+      "Solidarność to ruch społeczny",
+      "Solidarność to związek zawodowy"
+    ],
+    "info": "Solidarność to niezależny związek zawodowy powstały w 1980 roku, który odgrywał kluczową rolę w obaleniu komunizmu w Polsce. Jego liderem był Lech Wałęsa.",
+    "category": "historia Polski"
+  },
+  {
+    "question": "Kiedy miała miejsce uchwała Sejmu, który ustanowił Konstytucję 3 maja?",
+    "answer": ["3 maja 1791"],
+    "info": "Konstytucja 3 maja została uchwalona 3 maja 1791 roku. Była to pierwsza nowoczesna konstytucja w Europie, mająca na celu reformowanie Rzeczypospolitej Obojga Narodów.",
+    "category": "historia Polski"
+  },
+  {
+    "question": "Jakie wydarzenie miało miejsce 1 września 1939 roku?",
+    "answer": [
+      "Wyjątkowy atak Niemiec na Polskę",
+      "Początek II wojny światowej"
+    ],
+    "info": "1 września 1939 roku Niemcy hitlerowskie zaatakowały Polskę, co spowodowało wybuch II wojny światowej. Atak ten jest uznawany za początek konfliktu na skalę światową.",
+    "category": "historia Polski"
+  },
+  {
+    "question": "Kto był twórcą polskiego państwa średniowiecznego?",
+    "answer": ["Mieszko I"],
+    "info": "Mieszko I był pierwszym historycznym władcą Polski, który zjednoczył plemiona polskie w jedno państwo. To on przyjął chrzest w 966 roku, co stanowi początek chrześcijaństwa w Polsce.",
+    "category": "historia Polski"
+  },
+  {
+    "question": "Jaki pierwiastek chemiczny ma symbol 'O'?",
+    "answer": ["Tlen"],
+    "info": "Tlen to pierwiastek chemiczny o symbolu 'O', który jest niezbędny do życia większości organizmów na Ziemi. Jest kluczowym składnikiem powietrza i bierze udział w procesie oddychania komórkowego.",
+    "category": "chemia"
+  },
+  {
+    "question": "Jak nazywa się proces, w którym ciała stałe przechodzą bezpośrednio w stan gazowy?",
+    "answer": ["Sublimacja"],
+    "info": "Sublimacja to proces, w którym substancja przechodzi bezpośrednio z fazy stałej do gazowej, pomijając fazę ciekłą. Przykładem jest sublimacja suchego lodu (stały dwutlenek węgla).",
+    "category": "chemia"
+  },
+  {
+    "question": "Jak nazywa się reakcja chemiczna, w której jedna substancja łączy się z tlenem?",
+    "answer": ["Spalanie"],
+    "info": "Spalanie to reakcja chemiczna, w której substancja łączy się z tlenem, często uwalniając ciepło i światło. Przykładem jest spalanie węgla w tlenie, które daje dwutlenek węgla i energię.",
+    "category": "chemia"
+  },
+  {
+    "question": "Co to jest pH i jakie ma znaczenie w chemii?",
+    "answer": ["pH", "Skala pH"],
+    "info": "pH to miara kwasowości lub zasadowości substancji. Skala pH waha się od 0 do 14, gdzie pH 7 oznacza substancję neutralną, pH poniżej 7 wskazuje na substancje kwaśne, a powyżej 7 na zasadowe.",
+    "category": "chemia"
+  },
+  {
+    "question": "Jaka jest liczba atomowa wodoru?",
+    "answer": ["1"],
+    "info": "Wodór to pierwiastek chemiczny o liczbie atomowej 1. Jest najprostszym i najlżejszym pierwiastkiem w układzie okresowym.",
+    "category": "chemia"
+  },
+  {
+    "question": "Jak nazywa się najcięższy pierwiastek naturalny na Ziemi?",
+    "answer": ["Uran", "Uranium"],
+    "info": "Uran to pierwiastek chemiczny o największej liczbie atomowej spośród pierwiastków naturalnych, wykorzystywany m.in. w energetyce jądrowej.",
+    "category": "chemia"
+  },
+  {
+    "question": "Co to jest izomeria?",
+    "answer": ["Izomeria"],
+    "info": "Izomeria to zjawisko, w którym związki chemiczne mają tę samą formułę sumaryczną, ale różnią się strukturą molekularną lub rozmieszczeniem atomów.",
+    "category": "chemia"
+  },
+  {
+    "question": "Jak nazywa się reakcja, w której kwas reaguje z zasadą, tworząc sól i wodę?",
+    "answer": ["Reakcja neutralizacji"],
+    "info": "Reakcja neutralizacji to proces, w którym kwas reaguje z zasadą, prowadząc do powstania soli i wody. Przykładem może być reakcja kwasu siarkowego z wodorotlenkiem sodu.",
+    "category": "chemia"
+  },
+  {
+    "question": "Co to jest kwas solny i gdzie jest wykorzystywany?",
+    "answer": ["Kwas solny", "HCl"],
+    "info": "Kwas solny (HCl) to kwas mocny, który występuje w ludzkim żołądku, gdzie pomaga w trawieniu. Jest również wykorzystywany w przemyśle chemicznym, np. do produkcji soli.",
+    "category": "chemia"
+  },
+  {
+    "question": "Jaka jest formuła chemiczna wody?",
+    "answer": ["H2O"],
+    "info": "Woda (H2O) to związek chemiczny składający się z dwóch atomów wodoru i jednego atomu tlenu. Jest niezbędna do życia i występuje w trzech stanach skupienia: stałym, ciekłym i gazowym.",
+    "category": "chemia"
+  },
+  {
+    "question": "Jak nazywa się reakcja, w której dwa lub więcej reagentów reaguje, tworząc nową substancję?",
+    "answer": ["Reakcja syntezy"],
+    "info": "Reakcja syntezy to reakcja chemiczna, w której dwa lub więcej reagentów łączą się, tworząc jedną, bardziej złożoną substancję. Przykład: 2H₂ + O₂ → 2H₂O.",
+    "category": "chemia"
+  },
+  {
+    "question": "Co to jest katalizator?",
+    "answer": ["Katalizator"],
+    "info": "Katalizator to substancja, która przyspiesza reakcję chemiczną, nie biorąc udziału w jej ostatecznych produktach. Katalizator zmienia tempo reakcji, ale sam nie ulega trwałej zmianie.",
+    "category": "chemia"
+  },
+  {
+    "question": "Jakie pierwiastki tworzą cząsteczkę metanu?",
+    "answer": ["Węgiel", "Wodór"],
+    "info": "Metan (CH₄) to związek chemiczny składający się z jednego atomu węgla i czterech atomów wodoru. Jest to główny składnik gazu ziemnego.",
+    "category": "chemia"
+  },
+  {
+    "question": "Jaki gaz powstaje podczas spalania węgla w tlenie?",
+    "answer": ["Dwutlenek węgla"],
+    "info": "Podczas spalania węgla (C) w tlenie (O₂) powstaje dwutlenek węgla (CO₂), który jest jednym z głównych gazów cieplarnianych.",
+    "category": "chemia"
+  },
+  {
+    "question": "Jakie właściwości ma woda w kontekście chemii?",
+    "answer": [
+      "Rozpuszczalnik",
+      "Polarne cząsteczki",
+      "Wysokie ciepło właściwe"
+    ],
+    "info": "Woda jest doskonałym rozpuszczalnikiem wielu substancji, dzięki swojej polarnemu charakterowi. Ma również wysokie ciepło właściwe, co oznacza, że potrzebuje dużo energii do podgrzania.",
+    "category": "chemia"
+  },
+  {
+    "question": "Co to jest izotop?",
+    "answer": ["Izotop"],
+    "info": "Izotopy to odmiany tego samego pierwiastka chemicznego, które różnią się liczbą neutronów. Izotopy mają identyczne właściwości chemiczne, ale różne właściwości fizyczne, takie jak masa atomowa.",
+    "category": "chemia"
+  },
+  {
+    "question": "Jakie są podstawowe składniki chemiczne kwasu siarkowego?",
+    "answer": ["Siarka", "Tlen", "Wodór"],
+    "info": "Kwas siarkowy (H₂SO₄) składa się z atomów siarki, tlenu i wodoru. Jest to jeden z najważniejszych kwasów w przemyśle chemicznym.",
+    "category": "chemia"
+  },
+  {
+    "question": "Jak nazywa się proces, w którym cząsteczki cieczy przechodzą w stan gazowy?",
+    "answer": ["Parowanie"],
+    "info": "Parowanie to proces, w którym cząsteczki cieczy przechodzą w stan gazowy, gdy osiągną odpowiednią energię. Parowanie zachodzi na powierzchni cieczy.",
+    "category": "chemia"
+  },
+  {
+    "question": "Co to jest reakcja redoks?",
+    "answer": ["Reakcja redoks"],
+    "info": "Reakcja redoks (redukcji-oksydacji) to reakcja chemiczna, w której zachodzi wymiana elektronów. W procesie redukcji elektron jest przyjmowany, a w oksydacji elektron jest oddawany.",
+    "category": "chemia"
+  },
+  {
+    "question": "Jak nazywa się zasada, która jest odpowiedzialna za tworzenie mydła w procesie zmydlania?",
+    "answer": ["Wodorotlenek sodu"],
+    "info": "Wodorotlenek sodu (NaOH) jest jedną z zasad, która reaguje z tłuszczami w procesie zmydlania, tworząc mydło i glicerynę.",
+    "category": "chemia"
+  }
+]

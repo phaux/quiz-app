@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+:root {
+  height: 100%;
+  font-family: system-ui, sans-serif;
+  color-scheme: light dark;
+}
+
+body {
+  min-height: 100%;
+  background-image: radial-gradient(circle at top left, #fff2, transparent);
+}
